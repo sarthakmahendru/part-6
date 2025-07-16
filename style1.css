@@ -1,0 +1,71 @@
+
+body{
+    color: rgb(82, 21, 205);
+    background-color: antiquewhite;
+    font-family: cursive;
+    text-align: center;
+    text-indent: 80px;
+      word-spacing: 8px;
+      text-shadow: 1px 1px;
+    
+}
+#s1{
+    color: blueviolet;
+    background-color: rgb(195, 229, 57);
+}
+#s2{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+main{
+    background-color: black;
+    color: green;
+    border-radius: 25%;
+}
+.title{
+    color: brown;
+}
+#p1,#p2,#p3,#p4,#p5{
+     background-color: bisque;
+     color: darkolivegreen;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     text-shadow: 2px 2px ;
+}
+#p21,#p22,#p23,#p24,#p25{
+    background-color: bisque;
+    color: darkorange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px;
+}
+#form{
+    background-color: cadetblue;
+    color: crimson;
+}
+#ps1,#ps2,#ps3,#ps4,#ps5{
+    background-color: rgb(115, 247, 151);
+    border-radius: 25%;
+    border: 6px solid rgb(195, 229, 57);
+    width: 50vw;
+    padding: 35px;
+    margin: 25px;
+    box-sizing: border-box
+}
+#ps21,#ps22,#ps23,#ps24,#ps25{
+    background-color: aquamarine;
+    border-radius: 25%;
+    border: 6px solid rosybrown;
+    width: 50vw;
+    padding: 35px;
+    margin: 25px;
+}
+#fo1{
+    border: 6px solid yellowgreen;
+}
+.img1{
+    border: 25% solid yellowgreen;
+}
+.p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p11,.p12,.p13,.p14{
+    text-decoration:wavy;
+    text-decoration-color: blueviolet;
+
+}
